@@ -1,0 +1,426 @@
+/* BEGIN min width 1200px max width 1920 */
+@media (min-width: 1200px) and (max-width: 1920px) {
+    .most-important #license img {
+        margin: 20px auto 0px auto;
+    }
+    .why-benefits h3 {
+        width: 80%;
+    }
+    .rental-service .row1 p {
+        width: 85%;
+    }  
+}
+/* END min width 1025px max width 1205 */
+
+/* BEGIN max width 1200px */
+@media (max-width: 1200px) {
+    .rental-service .row1 p {
+        width: 100%;
+    } 
+}
+/* END max width 1200px */
+
+/* BEGIN min width 1025px */
+@media (min-width: 1025px) {
+    
+}
+/* END min width 1025px */
+
+/* BEGIN min width 1025px max width 1205 */
+@media (min-width: 1025px) and (max-width: 1205px) {
+       
+}
+/* END min width 1025px max width 1205 */
+
+/* BEGIN max width 1024px */
+@media (max-width: 1024px) {
+    
+}
+/* END max width 1024px */
+
+/* BEGIN max width 992px */	
+@media (min-width: 992px)  and (max-width: 1200px) {
+    .compare .no-padding-md {
+        padding: 0;
+    }
+}
+/* END max width 992px */
+
+/* BEGIN max width 992px */	
+@media (max-width: 992px) {
+    .maincontent p.row1 {
+        font-size: 28px;
+    }
+    .maincontent p.row2 {
+        font-size: 26px;
+    }
+    .most-important #home .phone-rmk {;
+        top: 120px;
+    }
+    .most-important #home h2 {
+        font-size: 44px;
+    }
+    .most-important #license img {
+        margin: 20px auto 0px auto;
+    }
+    .most-important #license img.child-2 {
+        margin: 20px auto 0px auto;
+    }
+    .prices .row div:nth-child(1) {
+        border-bottom: 1px solid #bbb;
+    }
+    .prices .row div:nth-child(2) {
+        border-bottom: 1px solid #ccc;
+    }
+    .compare .img-vs {
+        margin-top: 20px;
+    }
+    .advantages h3 {
+        font-size: 22px;
+        line-height: 1.25;
+    }
+    .rental-service .request-callback-1 {
+        display: block;
+        float: none;
+        width: 65%;
+        margin: 20px auto;
+    }
+    .pre-footer {
+        padding: 60px 0px 40px 0px;
+    }
+    .pre-footer .row1 {
+        margin: 5px 0px 20px 0px;
+        text-align: center;
+    }
+    .pre-footer .row2 {
+        margin: 35px 0px 40px 0px;
+        text-align: center;
+    }
+    .pre-footer .request-callback-1 {
+        display: block;
+        float: none;
+        width: 65%;
+        margin: 20px auto;
+    }
+}
+/* END max width 992px */
+
+/* BEGIN max width 767px */
+@media (max-width: 767px) {
+    h1 {
+        text-align: center;
+    }
+    .mainheader .logo {
+	    display: block;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .maincontent {
+        padding: 75px 0px 20px 0px;
+    }
+    .maincontent p.row1 {
+        display: table;
+        float: none;
+        margin: 20px auto 20px auto;
+    }
+    .maincontent p.row2 {
+        display: table;
+        float: none;
+        margin: 20px auto 40px auto;
+    }
+    .maincontent .request-callback-1 {
+        display: block;
+        float: none;
+        margin: 20px auto;
+        width: 70%;
+    }
+    .why-benefits {
+        padding: 65px 0px 20px 0px;
+    }
+    .why-benefits h3 {
+        width: 85%;
+    }
+    .rental-service .request-callback-1 {
+        width: 70%;
+    }
+    .about .mt-xs-35 {
+        margin-top: 35px !important;
+    }
+    .pre-footer {
+        padding: 60px 0px 40px 0px;
+    }
+    .pre-footer .row1 span {
+        font-size: 52px;
+        line-height: 56px;
+    }
+    .pre-footer .row2 span {
+        font-size: 46px;
+        line-height: 48px;
+    }
+    .pre-footer .request-callback-1 {
+        width: 70%;
+    }
+    .footer .logo {
+	    display: block;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer .phone {
+        display: block;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+}
+/* END max width 767px */
+
+/* BEGIN max width 600px */
+@media (max-width: 600px) {
+    .maincontent h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .maincontent h1 span {
+        display: block;
+        margin-top: 20px;
+        font-size: 42px;
+        line-height: 40px;
+    }
+    .maincontent .request-callback-1 {
+        width: 90%;
+    }
+    .why-benefits h2 {
+        font-size: 38px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+    .why-benefits h3 {
+        width: 95%;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .compare h2 {
+        font-size: 38px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+	.compare p {
+        width: 100%;
+        min-height: 40px;
+    }
+    .compare .col-xs-6 {
+        width: 100%;
+    }
+    .advantages h2 {
+        font-size: 38px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+    .rental-service h2 {
+        font-size: 38px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+    .rental-service .row2 p {
+        line-height: 1.2;
+    }
+    .rental-service .request-callback-1 {
+        width: 90%;
+    }
+    .about h2 {
+        font-size: 38px;
+        line-height: 40px;
+        margin-bottom: 35px;
+    }
+    .pre-footer .row1 span {
+        font-size: 48px;
+        line-height: 52px;
+    }
+    .pre-footer .row2 span {
+        font-size: 42px;
+        line-height: 46px;
+    }
+    .pre-footer .request-callback-1 {
+        width: 90%;
+    }
+}
+/* END max width 600px */
+
+/* BEGIN max width 480px */
+@media (max-width: 480px) {
+	.maincontent p.row1 {
+        text-align: center;
+    }
+    .maincontent p.row2 {
+        text-align: center;
+    }
+    .most-important #home .icons {
+        width: 50% !important;
+        word-wrap: break-word;
+    }
+    .prices .col-xs-6 {
+        width: 100%;
+    }
+    .prices .row div:nth-child(1) {
+        border-bottom: 0px;
+    }
+    .prices .row div:nth-child(2) {
+        border-bottom: 0px;
+    }
+    .advantages div.list {
+        font-size: 20px;
+    }
+    .advantages h3 {
+        font-size: 20px;
+        line-height: 1.25;
+    }
+    .rental-service .row1 p {
+        font-size: 22px;
+        line-height: 1.2;
+    }
+}
+/* END max width 480px */
+
+/* BEGIN max width 450px */
+@media (max-width: 450px) {
+    .maincontent .request-callback-1 {
+        width: 100%;
+    }
+    .most-important #func table tr th {
+        font-size: 12px;
+    }
+    .most-important #func table tr td:nth-child(1) {
+        font-size: 13px;
+    }
+    .most-important #func table tr th:nth-child(2) {
+        padding: 3px;
+    }
+    .most-important #func table tr th:nth-child(3) {
+        padding: 3px;
+    }
+    .most-important #func table tr th:nth-child(4) {
+        padding: 3px;
+    }
+    .rental-service .request-callback-1 {
+        width: 100%;
+    }
+    .pre-footer .row2 span {
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .pre-footer .request-callback-1 {
+        width: 100%;
+    }
+}
+/* END max width 450px */
+
+/* BEGIN max width 405px */
+@media (max-width: 405px) {
+    .maincontent h1 {
+        font-size: 44px;
+        line-height: 44px;
+    }
+	.maincontent h1 span {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .mainheader .phone-xs {
+        font-size: 22px;
+    }
+    .rental-service .row1 p {
+        font-size: 20px;
+        line-height: 1.2;
+    }
+    .rental-service .row2 .price p {
+        margin: 20px 0px 20px 0px;
+        width: 100%;
+    }
+    .footer .phone-xs {
+        font-size: 22px;
+    }
+}
+/* END max width 405px */
+
+/* BEGIN max width 390px */
+@media (max-width: 390px) {
+	.request-callback-1 .heading {
+        font-size: 38px;
+    }
+    .maincontent p.row1 {
+        font-size: 26px;
+    }
+    .maincontent p.row2 {
+        font-size: 24px;
+    }
+    .why-benefits h2 {
+        font-size: 33px;
+        line-height: 38px;
+        margin-bottom: 35px;
+    }
+    .why-benefits h3 {
+        width: 95%;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .compare h2 {
+        font-size: 33px;
+        line-height: 38px;
+        margin-bottom: 35px;
+    }
+    .advantages h2 {
+        font-size: 33px;
+        line-height: 38px;
+        margin-bottom: 35px;
+    }
+    .advantages h3 {
+        margin-top: 30px;
+        font-size: 17px;
+        line-height: 1.25;
+    }
+    .about h2 {
+        font-size: 33px;
+        line-height: 38px;
+        margin-bottom: 35px;
+    }
+    .pre-footer .row2 span {
+        font-size: 28px;
+        line-height: 32px;
+    }
+}
+/* END max width 390px */
+
+/* BEGIN max width 350px */
+@media (max-width: 350px) {
+	.button-3 {
+        font-size: 16px;
+    }
+    .mainheader .phone-xs {
+        font-size: 19px;
+    }
+    .advantages div.list {
+        font-size: 18px;
+    }
+    .advantages h3 {
+        font-size: 16px;
+        line-height: 1.25;
+    }
+    .footer .phone-xs {
+        font-size: 19px;
+    }
+}
+/* END max width 330px */
+
+/* BEGIN max width 330px */
+@media (max-width: 330px) {
+	
+}
+/* END max width 330px */
+
+/* BEGIN max width 320px */
+@media (max-width: 320px) {
+	
+}
+/* END max width 320px */
